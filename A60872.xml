@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some thoughts of the interest of England Shewing first, how the nation may be eas'd of all manner of taxes at the small charge of two pence per pound, on the annual incom. Secondly, how to reduce all exchequer tallies (if there be ten millions of them) to a par with money, paying only two and a half per cent discount. Thirdly, save the nation all the interest the king now pays (which is about one million per annum) by a lover of commerce.</title>
+            <author>Lover of commerce.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60872</idno>
+            <idno type="STC">Wing S4629</idno>
+            <idno type="STC">ESTC R214020</idno>
+            <idno type="EEBO-CITATION">99826257</idno>
+            <idno type="PROQUEST">99826257</idno>
+            <idno type="VID">30654</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60872)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30654)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1800:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some thoughts of the interest of England Shewing first, how the nation may be eas'd of all manner of taxes at the small charge of two pence per pound, on the annual incom. Secondly, how to reduce all exchequer tallies (if there be ten millions of them) to a par with money, paying only two and a half per cent discount. Thirdly, save the nation all the interest the king now pays (which is about one million per annum) by a lover of commerce.</title>
+                  <author>Lover of commerce.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T.S. and sold by E. Whitlock, near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bank of England --  Early works to 1800.</term>
+               <term>Finance, Public --  Great Britain --  1688-1815 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30654:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 50 -->
+            <p>Some Thoughts of the INTEREST OF ENGLAND.</p>
+            <p>SHEWING
+<list>
+                  <item>Firſt, How the Nation may be eas'd of all manner of Taxes at the ſmall charge of two Pence <hi>per</hi> Pound, on the Annual Incom.</item>
+                  <item>Secondly, How to reduce all Exchequer Tallies (if there be ten Millions of them) to a <hi>par</hi> with Money, paying only two and a half <hi>per Cent</hi> diſcount.</item>
+                  <item>Thirdly, Save the Nation all the Intereſt the King now pays (which is about one mil<g ref="char:EOLhyphen"/>lion <hi>per Annum</hi>)</item>
+               </list>
+            </p>
+            <p>By a Lover of Commerce.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. S.</hi> and Sold by <hi>E. Whitlock,</hi> near <hi>Stationers-Hall.</hi> 1697.</p>
+         </div>
+         <div type="authors_preface_to_the_reader">
+            <pb facs="tcp:30654:2"/>
+            <!-- PDF PAGE 51 -->
+            <pb facs="tcp:30654:2"/>
+            <!-- PDF PAGE 51 -->
+            <head>THE Author's Preface TO THE READER.</head>
+            <p>THE Subject of the enſuing Diſ<g ref="char:EOLhyphen"/>courſe, being matter of obſerva<g ref="char:EOLhyphen"/>tion and experiment, admits of no embelliſhment of expreſſion to uſher it into the World: The <g ref="char:V">Ʋ</g>niverſal Inte<g ref="char:EOLhyphen"/>reſt of the Nation, whom it equally con<g ref="char:EOLhyphen"/>cerns, and the ſeaſonableneſs of ſuch a Propoſal in this juncture of Affairs, will (no doubt) invite many to read and peruſe it; and if they will but do them<g ref="char:EOLhyphen"/>ſelves and me the Juſtice, to ſuſpend their Judgments till they have ſeriouſly and maturely weigh'd and digeſted every particular, I ſhall not much fear a welcome Reception: for the general
+<pb facs="tcp:30654:3"/>
+               <!-- PDF PAGE 52 -->bane of all Propoſals of this nature, is ei<g ref="char:EOLhyphen"/>ther the precipitancy or partiality of the Readers, who, being over-fond of their received Opinions, and impatient of what is new or uncommon, are not eaſily brought off their old Byaſs, or enclin'd to joyn iſſue with any thing that reliſhes of novelty: But it is the unprejudic'd and judicious Reader, whoſe approbation I chiefly covet.</p>
+            <p>I could eaſily have found out other more ſolemn Methods of conveying theſe Thoughts to the knowledge of the Pub<g ref="char:EOLhyphen"/>lick, but that I thought this ſimple and homely way of appearance might as well ſerve my deſign of advancing the glory and good of my King and Country; at a time, when the People juſt poſſeſs'd of a welcome and honourable Peace, are expecting to be freed of the heavy Taxes entail'd upon them by the preceding War; which, I think, the following Scheme does effectually compaſs, with<g ref="char:EOLhyphen"/>out empairing His Majeſties Treaſury.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:30654:3"/>
+            <!-- PDF PAGE 52 -->
+            <head>Some Thoughts of the Intereſt of England.</head>
+            <p>HAving taken into Conſideration the Burdenſom and Heavy Taxes, occaſioned by the late Expenſive War; and withal the Neceſſity of Continuing the ſame, for ſupplying the Deficiency of former Funds, and Paying the Debts of the Crown; I have bended my Thoughts upon an Expedient for removing that Eye-ſore, and Raiſing equal Sums of Money for the Uſe of the Publick, without them: Which I Humbly Of<g ref="char:EOLhyphen"/>fer in the following Particulars.</p>
+            <p n="1">1. That an Act of Parliament do lay two and a half <hi>per Cent.</hi> or ſix pence <hi>per</hi> Pound, on the Receiver of all Money in Specie, being not under five Pounds;
+<pb n="2" facs="tcp:30654:4"/>
+               <!-- PDF PAGE 53 -->and that the Bank of <hi>England</hi> be branch<g ref="char:EOLhyphen"/>ed into every City and Market-Town in <hi>England;</hi> and that the ſeveral branches be accountable to the General Bank at <hi>London,</hi> for the Profits of their re<g ref="char:EOLhyphen"/>ſpective branches, the Capital Stock remaining at the diſpoſal of thoſe who have lodged their Money in ſuch branches on their Notes; and any Per<g ref="char:EOLhyphen"/>ſon who is owner of one or more of theſe Notes, ſhall give their Vote for eſtabliſhing of Officers Employed in managing ſuch particular Branches; only the King may appoint one Officer in every branch to Inſpect into the ſaid Tax of ſix Pence <hi>per</hi> Pound.</p>
+            <p n="2">2. That no payment in Money be diſcharged if not under five Pounds, unleſs paid at the Bank or Branches, with a Stamp-diſcharge (made on purpoſe) certifying the Payment of the ſaid Tax of ſix Pence <hi>per</hi> Pound; under a large penalty and forfeiture of the Mo<g ref="char:EOLhyphen"/>ney illegally paid; and that no Perſon ſhall by Law, be diſcharged for paying
+<pb n="3" facs="tcp:30654:4"/>
+               <!-- PDF PAGE 53 -->any Sum of Money of five Pounds or upward, without a Stamp-diſcharge from the Bank or Branches.</p>
+            <p n="3">3. That all Perſons that ſhall accept the Credit of this Bank or Branches, and pay in any Sum of Money, not under five Pounds, on their Notes, ſhall receive one <hi>per Cent.</hi> which is one Shilling for every five Pounds ſo paid in; which will preſently bring into the Bank and Branches, ſeveral Millions, and enable them to lend the King on Parliamentary Funds, what ready money he ſhall de<g ref="char:EOLhyphen"/>ſire; and alſo buy up all the Exchequer Tallies in the ſpace of one Year, at two and a half <hi>per Cent.</hi> diſcount, as ſhall appear afterwards.</p>
+            <p n="4">4. That the ſaid Tax of two and a half <hi>per Cent.</hi> upon receipt of Money, be continued and kept in force for the ſame number of Years, as is granted to the Bank of <hi>England;</hi> and that this two and a half <hi>per Cent.</hi> after the aforeſaid one <hi>per Cent.</hi> is deducted, be a Fund to make good the Credit of this Bank
+<pb n="4" facs="tcp:30654:5"/>
+               <!-- PDF PAGE 54 -->and Branches; and after the Credit is ſecured, the ſaid remaining Tax of one and a half <hi>per Cent,</hi> ſhall remain and be at the diſpoſal of Parliament, and appropriated to the diſcharge of the Crown-Debts, contracted by the late War.</p>
+            <p n="5">5. That the Annual Profits of this Bank and Branches ſhall be divided among the Proprietors of the Bank of <hi>England</hi> and the King, in proportion to their Stocks; the Kings dividend being at the diſpoſal of Parliament.</p>
+            <p n="6">6. That the Bank of <hi>England</hi> and every particular Branch of it, by Act of Parliament, do in fourteen days after the Lodgment of any Sum or Sums of Money, on their Credit or Notes, lend or utter in Notes one fifth of their ſe<g ref="char:EOLhyphen"/>veral Stocks, then in Caſh. One third of which fifth is to be Lent the King, on Parliamentary Funds at three and a half <hi>per Cent.</hi> Intereſt; and the other two thirds on the forwardeſt Exchequer Tallies, at two and a half <hi>per Cent.</hi> diſ<g ref="char:EOLhyphen"/>count;
+<pb n="5" facs="tcp:30654:5"/>
+               <!-- PDF PAGE 54 -->both to be paid in Notes; And at the end of other 14 days the ſaid Bank and Branches ſhall again lend in Notes, one fitfth more of their ſeveral Stocks, then in Caſh, on the ſame Securities; and ſo on till all the Exchequer Tallies, <hi>&amp;c.</hi> are brought into the Bank and Branches. As ſuppoſing this Bank and Branches, to have in Caſh by them, at the end of every 14 days, but 3 Millions and a half, the Bank and Branches by Computation, will then lend the King ſix Millions on Parliamentary Funds, and bring in above 12 Millions of Exchequer Tallies, <hi>&amp;c.</hi> in the ſpace of one Year, at two and a half <hi>per Cent.</hi> diſcount (which Tallies are now diſcounted at very great loſs, to the unſpeakable prejudice of the King and Subject) and thereby ſink the vaſt Intereſt of about one Million <hi>per Annum,</hi> which the King now pays, and will then be diſcharged by the Publick's giving Cre<g ref="char:EOLhyphen"/>dit to the Bank and Branches.</p>
+            <p>This Method will alſo enable them to lend the King on Parliamentary Funds, 500000 <hi>l. per</hi> Month, at three and a half
+<pb n="6" facs="tcp:30654:6"/>
+               <!-- PDF PAGE 55 -->
+               <hi>per Cent.</hi> Intereſt, and ſupply His Majeſty with ready Money, to pay the Army and Navy, and purchaſe Proviſions and Stores at the beſt hand, w<hi rend="sup">ch</hi> are now taken up at extravagant Rates; as alſo inable the prin<g ref="char:EOLhyphen"/>cipal Trading-men of the Kingdom (who, moſt of them, have conſiderable Stocks in Tallies) to carry on their reſpective Trades with ready Money, which others, who are the now Maſters of ready Money, do not ſo well underſtand; which is partly the cauſe of the great ſcarcity of Money and want of Trade, we have felt theſe twenty Months paſt; and to reduce theſe Tallies to Money, by the ſaid method, muſt be an abſolute Addition to the Specie of the Na<g ref="char:EOLhyphen"/>tion, and make <hi>Bank Bills</hi> two and a half <hi>per Cent.</hi> better than Money, by reaſon of their immunity from the foreſaid Tax: And it's plain this method muſt anſwer what's here propos'd, Bank Notes being good in all Receipts and Payment, to and from the King, and the two and a half <hi>per Cent.</hi> or ſix Pence <hi>per</hi> Pound, lying on any Perſon that takes out Money, and one
+<pb n="7" facs="tcp:30654:6"/>
+               <!-- PDF PAGE 55 -->
+               <hi>per Cent.</hi> advantage for him that brings it in, and there being no other demand upon the Exchequer, but the <hi>Bank</hi> and <hi>Branches</hi> to anſwer their diſcounted Tallies, muſt needs bring the whole running Caſh of the Nation (which is computed at 6 or 7 Millions) into the <hi>Bank</hi> and <hi>Branches</hi> of it, and thereby enlarge the Publick Credit 12 Millions in one Year, and exceedingly advance Trade, and the Kings Revenue, pay the Debt of the Nation, and at the ſame time accommodate the People in freeing them from other Taxes, <hi>&amp;c.</hi>
+            </p>
+            <p>Now to ſhew the reaſonableneſs of this Tax, we will ſuppoſe a Gent. to have 500 <hi>l. per Annum,</hi> and that, upon receipt of the ſame, he paid this whole Tax of ſix Pence <hi>per</hi> Pound; he will then pay twelve Pounds ten Shillings <hi>per Annum;</hi> and ſuppoſing the ſame Perſon to pay the laſt Years Land-tax of four Shillings in the Pound, he will then pay one hundred Pounds <hi>per Annum;</hi> ſo that the ſaid Tax of ſix Pence <hi>per</hi> Pound (here propoſed) is but the one eighth part of the Land-tax, which being wholly taken off,
+<pb n="8" facs="tcp:30654:7"/>
+               <!-- PDF PAGE 56 -->and this of 6 <hi>d. per</hi> Pound laid on, certainly cannot be accounted any burthen to the Subject, eſpecially when a Man of 500 <hi>l. per Annum,</hi> does not ſpend, or uſe, above one third of his Eſtate, in Sums under 5 Pound, which will reduce this Tax of ſix pence <hi>per</hi> Pound, from 12 <hi>l.</hi> 10 <hi>s.</hi> to 4 <hi>l.</hi> 3 <hi>s.</hi> and 4 <hi>d.</hi> which is but the twenty fourth part of the ſaid Land-tax of 4 <hi>s. per</hi> Pound, a trifle not to be regarded in reſpect of the great Accommodation this Method brings with it; for this <hi>Tax</hi> may take all other <hi>Taxes</hi> off, being continued for a certain number of Years, and I ſuppoſe 12 Years may anſwer all; for allowing this propoſed Tax and the Kings Profit in the Bank, to be but 50000 <hi>l. per Annum,</hi> this Method will ſink all the Intereſt the King now pays, in the ſpace of one Year, and make every Man Maſter of his whole Money that he has on any Loan, paying only two and a half <hi>per Cent.</hi> diſcount, and certainly all theſe <hi>Tallies</hi> upon Loans, being reduced to Money, add many millions to the Specie of the Nation, and much inliven Trade, and
+<pb n="9" facs="tcp:30654:7"/>
+               <!-- PDF PAGE 56 -->augment the price of Land; for the more Money a Nation has, the more buying of Land, and I conceive advancing of Credit and making Money leſs uſeful, is the ſame thing as increaſing Specie, or Coin of the Nation.</p>
+            <p>Some may object, and ſay, this Tax of ſix pence <hi>per</hi> Pound, will be hard upon <hi>Trade;</hi> which it can never be, for all <hi>Mer<g ref="char:EOLhyphen"/>chants</hi> and <hi>Trading-men</hi> will accept of the Credit of this <hi>Bank</hi> and <hi>Branches,</hi> to avoid the <hi>Tax</hi> of the ſix pence <hi>per</hi> Pound, and they have no more occaſion for Sums un<g ref="char:EOLhyphen"/>der five Pounds, than a Gent. has; no other than to defray the petty expence of their Pockets and Families. But it's true, the <hi>Manufacturers,</hi> and <hi>Mechanicks,</hi> and <hi>Builders,</hi> who want <hi>Money</hi> in ſmall Sums, every <hi>Sa<g ref="char:EOLhyphen"/>turday-Night,</hi> muſt take <hi>Money</hi> out of the <hi>Bank</hi> or <hi>Branches,</hi> at two and a half <hi>per Cent.</hi> but this cannot be call'd, a <hi>Tax</hi> of two and a half <hi>per Cent.</hi> on them, by reaſon all <hi>Manufacturers</hi> and <hi>Builders,</hi> will not pay above one third of this <hi>Tax,</hi> becauſe two thirds of it goes in Sums of five Pounds
+<pb n="10" facs="tcp:30654:8"/>
+               <!-- PDF PAGE 57 -->or upward, for which they pay no <hi>Tax,</hi> but accept of <hi>Bank Bills</hi> from man to man, to avoid the <hi>Tax.</hi> So on the whole matter this is but an eaſie <hi>Tax,</hi> and does not amount to above two pence <hi>per</hi> Pound, or 16 <hi>s.</hi> and 8 <hi>d. per Cent.</hi> which can never hurt <hi>Trade;</hi> for it will, in the firſt place, increaſe their ſeveral <hi>Trades,</hi> by the advance of the currency and plenty of <hi>Money.</hi> Second<g ref="char:EOLhyphen"/>ly, They will ſeldom want <hi>Money,</hi> as they do now, by reaſon of the great currency of <hi>Bank Bills;</hi> for it's but paying 6 <hi>d. per</hi> pound, and they are preſently reduced to <hi>Money;</hi> &amp; there will be but little need of Credit, when the Specie is ſo large: For this way of Credit will make near 4 times as many Bills currant, as there is Caſh in the <hi>Bank</hi> and <hi>Branches,</hi> for its accounted if a Gold<g ref="char:EOLhyphen"/>ſmith has 20000 <hi>l.</hi> by him in Caſh, he has 60000 <hi>l.</hi> Credit; then certainly the <hi>Bank</hi> and <hi>Branches</hi> here mentioned, muſt have double the Credit of a Goldſmith, who is ſubject to many Caſualties, which this <hi>Bank</hi> and <hi>Branches</hi> are not: And every Man will be for paying <hi>Money</hi> into the <hi>Bank</hi> for
+<pb n="11" facs="tcp:30654:8"/>
+               <!-- PDF PAGE 57 -->the advantage of the 1 <hi>per Cent.</hi> and none will take out, but ſuch as want Pocket-Money, and for Ma<g ref="char:EOLhyphen"/>nufactures, or Building, <hi>&amp;c.</hi> &amp; as faſt as they take it out, at two and a half <hi>per Cent.</hi> it ſhifts hands and comes to the Retailer, who will pay it in again, for the ſake of the one <hi>per Cent.</hi> allowed for the paying Money into the Bank or Branches.</p>
+            <p>But ſuppoſing this Tax of ſix pence <hi>per</hi> pound, to take off no other Tax which may be laid the enſuing Year, yet it may be highly neceſſary to lay this Tax, by reaſon it will infallibly ſink all the Intereſt the King now pays in one Year, and reſtore the Publick Credit, and thereby in<g ref="char:EOLhyphen"/>creaſe Trade and augment the Specie of the Na<g ref="char:EOLhyphen"/>tion, and furniſh the Subject with ready Money, which they now want.</p>
+            <p>The re-eſtabliſhing of Paper-Credit, hath been much ſought for, but hitherto I do not obſerve it's found, His Majeſty now paying a large Intereſt to procure the Circulation of Exchequer Bills, and help the Publick Credit, and yet thoſe Bills are diſcounted at 5 or 6 <hi>per Cent.</hi> and in the Out<g ref="char:EOLhyphen"/>parts of the Kingdom at much more; which comes ſhort of the wiſhed for end, and does not remove the Cauſe, nor altogether help the Sub<g ref="char:EOLhyphen"/>ject; whereas by this Method propos'd, the King will be furniſhed with what Money he pleaſes, on Parliamentary Funds, at three and a half <hi>per Cent.</hi> Intereſt, <hi>per Annum.</hi>
+            </p>
+            <p>Note, That this way of Tax at ſix pence <hi>per</hi> pound, on Money, does not compel any Man to
+<pb n="12" facs="tcp:30654:9"/>
+               <!-- PDF PAGE 58 -->pay his Money into the Bank or Branches, for he may keen what Money he pleaſes by him, but whenever he pays any Money away, he is obli<g ref="char:EOLhyphen"/>ged, under a large penalty, <hi>&amp;c.</hi> to get one <hi>per Cent.</hi> for paying his Money into the Bank or Branches of it; and whatever loſs or caſualty by Fire, Robbery, or otherwiſe, ſhall happen to the Bank or any of the Branches, the Bank of <hi>England</hi> ſhall be obliged to make good, out of the Profits and Incom of the Bank and Branches, and the Kings Tax ſhall bear a proportionable part, but that all Officers Imployed in this Bank, <hi>&amp;c.</hi> ſhall give ſecurity for their Places, according to their Truſt. And laſtly, For the more Security of this Bank and Branches, the Propoſer hath a Method to prevent any manner of Counterfeit, or if a Man miſlay or be robb'd of his Bill, the taker ſhall have no advantage thereby, but the owner ſhall go to the Bank or Branch, where-ever it was given, and receive another Bill for it, as if it had not been loſt; and every Market-Town in <hi>England,</hi> ſhall have different Bills, yet they ſhall be good all over the Kingdom, which will ſave Traders the whole Inland Exchange, and very much advance Trade, and put an end to High-way-Men and Robbers.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
